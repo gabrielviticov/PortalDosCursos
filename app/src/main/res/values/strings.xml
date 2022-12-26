@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">PortalDosCursos</string>
+
+    <!-- Trabalhando com os itens do menu -->
+    <string name="menu_item_configuracoes">Configurações</string>
+    <string name="menu_item_sobre">Sobre Nós</string>
+    <string name="menu_item_fechar_aplicativo">Encerrar o Aplicativo</string>
 </resources>
